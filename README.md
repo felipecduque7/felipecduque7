@@ -4,9 +4,10 @@ Aluno no quarto semestre de Engenharia de Software na Universidade de Brásilia,
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 **Linguagens de Programação & Frameworks**
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -20,18 +21,9 @@ Aluno no quarto semestre de Engenharia de Software na Universidade de Brásilia,
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecduque7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecduque7&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>
-
----
-
-## 📬 Vamos nos conectar!
+##  Vamos nos conectar!
 - ✉️ **E-mail:** `felipecoutoduque07@gmail.com`
-- 💼 **LinkedIn:** [Seu Nome](https://linkedin.com/in/Felipe Duque)
+- 💼 **LinkedIn:** `(https://linkedin.com/in/FelipeDuque)`
 
 <!--
 **felipecduque7/felipecduque7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

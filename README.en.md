@@ -2,29 +2,29 @@
 
 <h1>Felipe Couto Duque</h1>
 
-<p>Estudante de Engenharia de Software na Universidade de Brasília</p>
+<p>Software Engineering student at the University of Brasília</p>
 
 <p>
-  <strong>Português</strong>
+  <a href="README.md">Português</a>
   &nbsp;|&nbsp;
-  <a href="README.en.md">English</a>
+  <strong>English</strong>
 </p>
 
 </div>
 
 ---
 
-## Sobre mim
+## About me
 
-Estudo Engenharia de Software na UnB desde 2025. Meu interesse está em entender como sistemas funcionam por dentro — da modelagem de dados à infraestrutura que coloca uma aplicação no ar — e em como a inteligência artificial pode ser usada de forma consciente no desenvolvimento de software.
+I have been studying Software Engineering at the University of Brasília (UnB) since 2025. I am interested in understanding how systems work from the inside — from data modeling to the infrastructure that puts an application online — and in how artificial intelligence can be used thoughtfully in software development.
 
-Hoje sou responsável pelo banco de dados e pela autenticação do **Agenda UnB**, projeto da disciplina de Métodos de Desenvolvimento de Software, e participo do programa **Maker Foundation**, do AI Lab da UnB.
+I am currently responsible for the database and authentication of **Agenda UnB**, a project for the Software Development Methods course, and I take part in the **Maker Foundation** program at the UnB AI Lab.
 
-Gosto de projetos em que a decisão técnica precisa ser justificada, não apenas implementada.
+I enjoy projects where technical decisions have to be justified, not just implemented.
 
 ---
 
-## Linguagens
+## Languages
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -37,7 +37,7 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
 
 ---
 
-## Ferramentas que já utilizei em projetos
+## Tools I have used in projects
 
 **Front-end**
 
@@ -47,7 +47,7 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-**Back-end e dados**
+**Back-end and data**
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -55,7 +55,7 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-**Infraestrutura e entrega contínua**
+**Infrastructure and continuous delivery**
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -64,7 +64,7 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-**Testes e qualidade**
+**Testing and code quality**
 
 <p>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
@@ -75,20 +75,20 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
 
 ---
 
-## Projetos em destaque
+## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/unb-mds/2026-2-AgendaUnB">Agenda UnB</a></h3>
-      <p>Agenda que reúne eventos do campus e prazos acadêmicos dos estudantes da UnB.</p>
-      <p>Responsável pela modelagem do banco e pela autenticação: perfis criados por trigger, distinção entre estudante e professor validada no próprio PostgreSQL e políticas de Row Level Security.</p>
+      <p>A calendar that brings together campus events and academic deadlines for UnB students.</p>
+      <p>Responsible for database modeling and authentication: profiles created by trigger, the student and professor roles validated inside PostgreSQL itself, and Row Level Security policies.</p>
       <p><sub>React · Vite · Supabase · PostgreSQL</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/felipecduque7/semana5-docker-cicd">Containerização e CI/CD</a></h3>
-      <p>Aplicação Django e Next.js levada do ambiente de desenvolvimento à produção em contêineres.</p>
-      <p>Imagens multi-stage com usuário não-root, proxy reverso com HTTPS e pipeline com trilhas independentes de lint, build e teste, publicando no GitHub Container Registry.</p>
+      <h3><a href="https://github.com/felipecduque7/semana5-docker-cicd">Containerization and CI/CD</a></h3>
+      <p>A Django and Next.js application taken from development to production in containers.</p>
+      <p>Multi-stage images running as a non-root user, a reverse proxy with HTTPS, and a pipeline with independent lint, build and test tracks, publishing to the GitHub Container Registry.</p>
       <p><sub>Docker · Nginx · GitHub Actions · Django · Next.js</sub></p>
     </td>
   </tr>
@@ -96,11 +96,11 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
 
 ---
 
-## Contato
+## Contact
 
 <p>
   <a href="mailto:felipecoutoduque07@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/felipecduque7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

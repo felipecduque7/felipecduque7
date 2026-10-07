@@ -2,7 +2,7 @@
 
 <h1>Felipe Couto Duque</h1>
 
-<p>Estudante de Engenharia de Software na Universidade de Brasília</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=Engenharia+de+Software+na+UnB;Banco+de+dados+e+infraestrutura;Baterista+nas+horas+vagas" alt="Engenharia de Software na UnB" />
 
 <p>
   <strong>Português</strong>
@@ -93,6 +93,16 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
     </td>
   </tr>
 </table>
+
+---
+
+## Fora do código
+
+**Bateria.** Toco nas horas vagas. Acho que vem daí o gosto por ritmo no trabalho também: commits pequenos e constantes, uma pipeline que roda sempre no mesmo tempo.
+
+**Trilha sonora.** Sade, Pearl Jam, The Alan Parsons Project — este último com um bônus: antes de virar músico, Alan Parsons foi o engenheiro de som do *The Dark Side of the Moon*. Engenharia e música no mesmo nome.
+
+**Basquete.** Quando não estou na frente do computador, provavelmente estou na quadra.
 
 ---
 

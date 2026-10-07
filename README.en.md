@@ -2,7 +2,7 @@
 
 <h1>Felipe Couto Duque</h1>
 
-<p>Software Engineering student at the University of Brasília</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=Software+Engineering+at+UnB;Databases+and+infrastructure;Drummer+in+my+spare+time" alt="Software Engineering at UnB" />
 
 <p>
   <a href="README.md">Português</a>
@@ -93,6 +93,16 @@ I enjoy projects where technical decisions have to be justified, not just implem
     </td>
   </tr>
 </table>
+
+---
+
+## Beyond the code
+
+**Drums.** I play in my spare time. I think that is also where my taste for rhythm at work comes from: small, steady commits and a pipeline that always runs on time.
+
+**Soundtrack.** Sade, Pearl Jam, The Alan Parsons Project — the last one with a bonus: before becoming a musician, Alan Parsons was the sound engineer on *The Dark Side of the Moon*. Engineering and music under the same name.
+
+**Basketball.** When I am not in front of a computer, I am probably on the court.
 
 ---
 

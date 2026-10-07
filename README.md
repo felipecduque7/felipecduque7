@@ -77,9 +77,13 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
 
 **Bateria.** Toco nas horas vagas. Acho que vem daí o gosto por ritmo no trabalho também: commits pequenos e constantes.
 
+<<<<<<< HEAD
 **Trilha sonora.** Sade, Pearl Jam, The Alan Parsons Project.
+=======
+**Trilha sonora.** Sade, Pearl Jam, The Alan Parsons Project, etc.
+>>>>>>> 79c0e9e884a2bcea677def9471813a75eefa1ce6
 
-**Basquete.** Quando não estou na frente do computador, provavelmente estou na quadra.
+**Basquete.** Gosto de praticar o esporte por diversão.
 
 <br />
 

@@ -78,7 +78,7 @@ I enjoy projects where technical decisions have to be justified, not just implem
 **Drums.** I play in my spare time. I think that is also where my taste for rhythm at work comes from: small, steady commits.
 
 **Soundtrack.** Sade, Pearl Jam, The Alan Parsons Project
-**Basketball.** When I am not in front of a computer, I am probably on the court.
+**Basketball.** I enjoy playing for fun.
 
 <br />
 

@@ -98,11 +98,11 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
 
 ## Fora do código
 
-**Bateria.** Toco nas horas vagas. Acho que vem daí o gosto por ritmo no trabalho também: commits pequenos e constantes, uma pipeline que roda sempre no mesmo tempo.
+**Bateria.** Toco nas horas vagas. Acho que vem daí o gosto por ritmo no trabalho também: commits pequenos e constantes.
 
-**Trilha sonora.** Sade, Pearl Jam, The Alan Parsons Project — este último com um bônus: antes de virar músico, Alan Parsons foi o engenheiro de som do *The Dark Side of the Moon*. Engenharia e música no mesmo nome.
+**Trilha sonora.** Sade, Pearl Jam, The Alan Parsons Project, etc.
 
-**Basquete.** Quando não estou na frente do computador, provavelmente estou na quadra.
+**Basquete.** Gosto de praticar o esporte por diversão.
 
 ---
 

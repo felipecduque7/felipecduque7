@@ -80,9 +80,6 @@ Toco bateria nas horas vagas, acho que vem daí o gosto por ritmo no trabalho ta
 
 <br />
 
-## Contato
-
-[E-mail](mailto:felipecoutoduque07@gmail.com) · [LinkedIn](https://www.linkedin.com/in/felipe-duque-241a9b348) · [GitHub](https://github.com/felipecduque7)
 
 ## Contato
 

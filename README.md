@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=170&section=header&text=Felipe%20Couto%20Duque&fontSize=40&fontColor=ffffff&fontAlignY=36&animation=fadeIn" alt="Felipe Couto Duque" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6f78&height=170&section=header&text=Felipe%20Couto%20Duque&fontSize=40&fontColor=e6edf3&fontAlignY=36&animation=fadeIn" alt="Felipe Couto Duque" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=Engenharia+de+Software+na+UnB;Banco+de+dados+e+infraestrutura" alt="Engenharia de Software na UnB" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4A9FA8&center=true&vCenter=true&width=560&lines=Engenharia+de+Software+na+UnB;Banco+de+dados+e+infraestrutura" alt="Engenharia de Software na UnB" />
 
 <br />
 
-<a href="README.md"><img src="https://img.shields.io/badge/Portugu%C3%AAs-2563EB?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Português" /></a>
-<a href="README.en.md"><img src="https://img.shields.io/badge/English-1F2937?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English" /></a>
+<a href="README.md"><img src="https://img.shields.io/badge/Portugu%C3%AAs-1F6F78?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Português" /></a>
+<a href="README.en.md"><img src="https://img.shields.io/badge/English-21262D?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English" /></a>
 
 </div>
 
@@ -25,7 +25,7 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
 
 ## Linguagens
 
-<img src="https://skillicons.dev/icons?i=c,py,js,html,css&theme=dark" alt="C, Python, JavaScript, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=c,py,js,ts,html,css&theme=dark" alt="C, Python, JavaScript, TypeScript, HTML, CSS" />
 
 <br />
 
@@ -37,11 +37,11 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
 
 **Back-end e dados**
 <br />
-<img src="https://skillicons.dev/icons?i=django,postgres,supabase&theme=dark" alt="Django, PostgreSQL, Supabase" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,postgres,supabase,firebase&theme=dark" alt="Django, FastAPI, PostgreSQL, Supabase, Firebase" />
 
 **Infraestrutura e entrega contínua**
 <br />
-<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,git,github&theme=dark" alt="Docker, Nginx, GitHub Actions, Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,gcp,git,github&theme=dark" alt="Docker, Nginx, GitHub Actions, Google Cloud, Git, GitHub" />
 
 **Testes e qualidade**
 <br />
@@ -63,6 +63,20 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
       <img src="https://skillicons.dev/icons?i=react,vite,supabase,postgres&theme=dark&perline=4" height="32" alt="React, Vite, Supabase, PostgreSQL" />
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/AI-Lab-G5/CarbonTrace">CarbonTrace</a></h3>
+      <p>Inventário de emissões de gases de efeito estufa para redes de varejo e franquias.</p>
+      <p>Responsável pelo back-end: isolamento entre empresas clientes pelo caminho no banco, fatores de emissão versionados e imutáveis para permitir recálculo auditável, e lançamentos idempotentes por chave natural.</p>
+      <img src="https://skillicons.dev/icons?i=py,fastapi,firebase,docker,gcp&theme=dark&perline=5" height="32" alt="Python, FastAPI, Firebase, Docker, Google Cloud" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/felipecduque7/cep-cartas-controle">CEP — Cartas de Controle</a></h3>
+      <p>Software de controle estatístico de processos: lê um plano de análise em JSON, calcula os limites, aponta sinais de alerta e gera relatório em PDF.</p>
+      <p>Sete cartas de controle, regras Western Electric, análise de capacidade e probabilidade de detecção de deslocamento. 122 testes automatizados rodando em Linux e Windows.</p>
+      <img src="https://skillicons.dev/icons?i=py,githubactions&theme=dark&perline=2" height="32" alt="Python, GitHub Actions" />
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/felipecduque7/semana5-docker-cicd">Containerização e CI/CD</a></h3>
       <p>Aplicação Django e Next.js levada do ambiente de desenvolvimento à produção em contêineres.</p>
       <p>Imagens multi-stage com usuário não-root, proxy reverso com HTTPS e pipeline com trilhas independentes de lint, build e teste, publicando no GitHub Container Registry.</p>
@@ -70,6 +84,22 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
     </td>
   </tr>
 </table>
+
+<br />
+
+## Atividade
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=felipecduque7&locale=pt_BR&hide_border=true&background=0D1117&stroke=21262D&ring=4A9FA8&fire=4A9FA8&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=4A9FA8&sideLabels=8B949E&dates=6E7681&excludeDaysLabel=6E7681" alt="Sequência de contribuições" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecduque7&locale=pt-br&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=4A9FA8&text_color=E6EDF3&icon_color=4A9FA8" alt="Linguagens mais usadas" />
+
+<br /><br />
+
+<img width="100%" src="https://raw.githubusercontent.com/felipecduque7/felipecduque7/output/snake.svg" alt="Animação percorrendo o gráfico de contribuições" />
+
+</div>
 
 <br />
 
@@ -85,11 +115,10 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
 
 ## Contato
 
-<a href="mailto:felipecoutoduque07@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-<a href="https://github.com/felipecduque7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/felipe-duque-241a9b348"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
--->
+<a href="mailto:felipecoutoduque07@gmail.com"><img src="https://img.shields.io/badge/E--mail-1F6F78?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://github.com/felipecduque7"><img src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/felipe-duque-241a9b348"><img src="https://img.shields.io/badge/LinkedIn-164E57?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6f78,100:0d1117&height=110&section=footer" alt="" />

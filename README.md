@@ -7,7 +7,7 @@ Português · [English](README.en.md)
 
 ---
 
-Estudo Engenharia de Software na UnB desde 2025. Meu interesse está em entender como sistemas funcionam por dentro — da modelagem de dados à infraestrutura que coloca uma aplicação no ar — e em como a inteligência artificial pode ser usada de forma consciente no desenvolvimento de software.
+Estudo Engenharia de Software na UnB desde 2025. Meu interesse está em entender como sistemas funcionam por dentro, da modelagem de dados à infraestrutura que coloca uma aplicação no ar, e em como a inteligência artificial pode ser usada de forma consciente no desenvolvimento de software.
 
 Hoje cuido do banco de dados e da autenticação do **Agenda UnB**, na disciplina de Métodos de Desenvolvimento de Software, e do back-end do **CarbonTrace**, no programa Maker Foundation do AI Lab da UnB.
 
@@ -76,7 +76,7 @@ Gosto de projetos em que a decisão técnica precisa ser justificada, não apena
 
 ## Fora do código
 
-Toco bateria nas horas vagas — acho que vem daí o gosto por ritmo no trabalho também: commits pequenos e constantes. Jogo basquete por diversão, e a trilha sonora vai de Sade a Pearl Jam, passando pelo Alan Parsons Project.
+Toco bateria nas horas vagas, acho que vem daí o gosto por ritmo no trabalho também. Além disso, jogo basquete por diversão e a minha trilha sonora vai de Sade a Pearl Jam.
 
 <br />
 
